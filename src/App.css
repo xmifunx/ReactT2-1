@@ -1,0 +1,30 @@
+button {
+  display: inline; 
+  margin-right: 5px; 
+  border: 1px solid;
+  padding: 5px; 
+}
+.filter-selected {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.filter {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.projectList {
+  margin: 15px 0;
+  display: inline-block;
+  column-count: 3;
+  column-gap: normal;
+}
+
+#root {
+  text-align: center;
+}
+
+img {
+  margin: 5px 0px;
+}
